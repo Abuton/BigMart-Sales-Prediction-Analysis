@@ -11,3 +11,7 @@ It follows the following process
   Encoding Categorical Variables -- Necessary because most Algorithm does not support Characters
   Preprocessing Data
   Model Building
+
+Thank You and I hope You learn from this.
+If you have any question or suggestions feel free to contact me @Abuton1 on Twitter or send me a mail
+alaroabubakarolayemi@yahoo.com
